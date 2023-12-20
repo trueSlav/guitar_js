@@ -5,19 +5,19 @@ const CATALOG = [
 		id: 'el1',
 		name: 'ARIA PRO II STG-003SPL VW',
 		img: 'img/catalog/aria-el1.jpeg', // Файл храниться сокально.
-		price: '15379'
+		price: 15379
 	},
 	{
 		id: 'el2',
 		name: 'ARIA PRO II TEG-002 BK',
 		img: 'img/catalog/aria-el2.jpeg',
-		price: '18171'
+		price: 18171
 	},
 	{
 		id: 'el3',
 		name: 'ARIA PRO II MAC-STD MBK',
 		img: 'img/catalog/aria-el3.jpeg',
-		price: '25399'
+		price: 25399
 	},
 	{
 		"id": "el4",
